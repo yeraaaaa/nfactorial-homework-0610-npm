@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "pushToGit": "git add index.js —→ git commit -m “some commit text” —→ git push"
+    "pushToGit": "git add . & git commit -m 'commiting' & git push"
   },
   "author": "",
   "license": "ISC",
