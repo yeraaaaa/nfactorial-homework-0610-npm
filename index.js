@@ -1,2 +1,2 @@
 import chalk from 'chalk';
-console.error('Yera loves you, jz <3');
+console.error('Yera loves you <3');
